@@ -1,0 +1,17 @@
+[
+{
+  "modid": "RRM",
+  "name": "Realistic Random Mod",
+  "description": "Adding random blocks at a realistic whim!!",
+  "version": "1.7.2-0.0.1",
+  "credits": "Created by Karasandra",
+  "logoFile": "",
+  "mcversion": "",
+  "url": "https://www.github.com/Karasandra/RRM",
+  "updateUrl": "",
+  "authors": [ "SpaceToad" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]
